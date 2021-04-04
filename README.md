@@ -28,3 +28,4 @@ Best place to start is our [contribution guide](/CONTRIBUTING.md).
 
 Copyright 2017 - The Syna Theme Starter Authors
 
+"# Hugo_Test_Scorpet" 
